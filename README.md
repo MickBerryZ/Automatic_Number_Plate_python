@@ -11,7 +11,8 @@ Link: https://universe.roboflow.com/roboflow-universe-projects/license-plate-rec
 Following this step-by-step tutorial on how to train an object detector with Yolov8 on your custom data.
 Link: https://github.com/computervisioneng/train-yolov8-custom-dataset-step-by-step-guide
 
-Thank you original code from the youtube channel "Computer vision engineer"
+Thank you original code from the youtube channel 
+"Computer vision engineer" 
 Link: https://youtu.be/fyJB1t0o0ms
 
 ---------------------------------------------------
