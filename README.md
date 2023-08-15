@@ -13,8 +13,8 @@ Link: https://github.com/computervisioneng/train-yolov8-custom-dataset-step-by-s
 
 Thank you original code from the youtube channel "Computer vision engineer"
 Link: https://youtu.be/fyJB1t0o0ms
----------------------------------------------------
 
+---------------------------------------------------
 *** Please Read requirements.txt file to setting environment ***
 
 The process of program:
