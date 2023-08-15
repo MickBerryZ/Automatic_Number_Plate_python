@@ -3,6 +3,11 @@
 This automatic Number Plate uses Python to implement that supports the English language.
 It can detect and recognise number plates into CSV file.
 
+Download VDO that uses on this code : https://drive.google.com/file/d/1YmHTElM6rh5uBpvaoUYpYTHK2odJkoM6/view
+
+A licensed plate detector was used to detect license plates. The model was trained with Yolov8 using this dataset 
+and following this step by step tutorial on how to train an object detector with Yolov8 on your custom data.
+
 Thank you original code from youtube channal "Computer vision engineer"
 Link : https://youtu.be/fyJB1t0o0ms
 
@@ -13,8 +18,8 @@ The process of program:
 2. Detect License Plate
 3. Process License Plate
 4. Write into CSV File => test.csv 
-5. Cleaning CSV File => renew file to be test_interpolated.csv
-6. Finding Index ID
+5. Cleaning CSV File => run add_missing_data using test.csv  and convert file to be test_interpolated.csv
+6. Finding Index ID => run visualize.py to read_interpolated to visual index number plate
 7. Combine CSV&VDO Process License Plate => out.mp4
 8. Display Result 
 
@@ -32,4 +37,3 @@ Details of code as below:
 9.	Process License Plate
 10.	Read License Plate Number
 11.	Write Results
-
